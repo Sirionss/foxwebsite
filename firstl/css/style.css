@@ -1,0 +1,30 @@
+h1, h2 {
+    text-align: center; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;     
+    color: #5e2d2d;
+}
+ul.menu {
+    list-style: none;
+    padding: 0%;
+    font-size: 30px;
+}
+#cars-list {
+    list-style: upper-roman;
+    color: rgb(0, 150, 0);
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline; 
+    
+}
+a:active{
+    color: red;
+}
+a:visited{
+    color: rgb(39, 13, 82);
+}
+img.picture {
+    width: 10%;
+}
